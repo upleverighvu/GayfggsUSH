@@ -13,4 +13,3 @@ jobs:
     secrets:
       awsRegion: ${{ secrets.AWS_REGION }}
       awsAccountID: ${{ secrets.AWS_ACCOUNT_ID }}
-      slackBuildWebhook: ${{ secrets.SLACK_BUILD_WEBHOOK }}
